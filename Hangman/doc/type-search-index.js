@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"dictionary","l":"DictionaryReader"},{"p":"hangman","l":"Hangman"},{"p":"hangman","l":"HangmanEvil"},{"p":"<Unnamed>","l":"HangmanGame"},{"p":"hangman","l":"HangmanTraditional"}]
