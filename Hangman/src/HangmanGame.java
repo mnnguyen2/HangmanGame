@@ -10,8 +10,6 @@ import hangman.*;
 /**
  * Controller class for game launch. 
  * Name: Mai Nguyen
- * PennKey: mnnguyen
- * Statement of Collaboration: Collaborated with Alexandros Khor and Daniel Woo
  */
 
 public class HangmanGame {
