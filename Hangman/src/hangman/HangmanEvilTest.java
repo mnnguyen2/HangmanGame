@@ -12,8 +12,6 @@ import dictionary.DictionaryReader;
 /**
  * Unit testing for HangmanEvil class.
  * Name: Mai Nguyen
- * PennKey: mnnguyen
- * Statement of Collaboration: Collaborated with Alexandros Khor and Daniel Woo
  * 
  */
 class HangmanEvilTest {
